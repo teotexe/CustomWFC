@@ -35,7 +35,7 @@ The input file defines the rules for tile placement and the size of the grid. He
    - Name of the folder where tile images are stored
 
 2. **Following Rows**:
-   - For each tile type, specify the tile name followed by its rules for each side.
+   - For each tile type, specify the tile name followed by its rules for each side (starting from top left in clockwise order).
    - A tile's rules determine which other tiles it can connect to on each of its sides.
 
 3. **Last Row**:
