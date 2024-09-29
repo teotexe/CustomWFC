@@ -2,9 +2,16 @@
 
 This project is a Wave Function Collapse (WFC) path generator, designed to work with custom tile-based rules. The generator uses the SFML library to render tile maps based on the provided rules. The rules dictate how different tile types can be placed next to each other.
 
-| Pipes                        | (Ugly) Houses                        |
-|----------------------------------|----------------------------------|
-| ![Pipes](path/to/img1.jpg) | ![Houses](path/to/img2.jpg) |
+<table>
+  <tr>
+    <th>Pipes</th>
+    <th>(Ugly) Houses</th>
+  </tr>
+  <tr>
+    <td><img src="Pipes.png" alt="Pipes" width="300"/></td>
+    <td><img src="Houses.png" alt="Houses" width="300"/></td>
+  </tr>
+</table>
 
 
 ## Setup and Build
