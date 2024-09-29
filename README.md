@@ -18,8 +18,12 @@ This project is a Wave Function Collapse (WFC) path generator, designed to work 
 
 To compile the project, ensure you have SFML installed and the appropriate paths set up. Run the following commands to build and compile the project:
 
+```text
 g++ -c WFC.cpp -I<path_to_your_SFML_include>
+```
+```text
 g++ WFC.o -o WFC -L<path_to_your_SFML_lib> -lsfml-graphics -lsfml-window -lsfml-system
+```
 
 ## Input Format
 
