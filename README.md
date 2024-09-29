@@ -85,7 +85,9 @@ up 0 1 0 0 1 0 0 0 0 0 1 0
 
 Once compiled, run the program and provide the input file as an argument to generate a path using the WFC algorithm with your custom rules.
 
+```text
 ./WFC input.txt
+```
 
 ## Acknowledgements
 
