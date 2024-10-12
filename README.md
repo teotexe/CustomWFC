@@ -53,8 +53,8 @@ right 0 1 0 0 1 0 0 1 0 0 0 0
 up 0 1 0 0 1 0 0 0 0 0 1 0
 8
 ```
-```text
 #### Houses Configuration:
+```text
 3 12 Houses
 1 0 0 0 1 0 0 0 0 0 1 0 0
 2 0 0 0 0 0 1 0 0 0 0 0 1
